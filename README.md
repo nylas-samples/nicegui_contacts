@@ -35,6 +35,8 @@ $ pip3 install python-dotenv # Environment variables
 
 ## Usage
 
+Create a folder called **assets** where the contact pictures can be downloaded to.
+
 Run the file **nicegui_contacts.py**:
 
 ```bash
